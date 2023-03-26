@@ -1,5 +1,5 @@
-module.exports={
-    CityService:require('./city-service')
+module.exports = {
+    CityService: require('./city-service')
 }
 
 //This file is created just to do all exporting under one banner
