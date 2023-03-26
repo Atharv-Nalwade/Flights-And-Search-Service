@@ -1,5 +1,5 @@
 module.exports={
-    CityRepository:require('./city-repository')
+    CityService:require('./city-service')
 }
 
 //This file is created just to do all exporting under one banner
